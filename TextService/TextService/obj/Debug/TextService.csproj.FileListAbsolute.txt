@@ -1,0 +1,14 @@
+C:\Users\billy\source\repos\TextService\TextService\bin\TextService.dll.config
+C:\Users\billy\source\repos\TextService\TextService\bin\TextService.dll
+C:\Users\billy\source\repos\TextService\TextService\bin\TextService.pdb
+C:\Users\billy\source\repos\TextService\TextService\obj\Debug\TextService.csprojAssemblyReference.cache
+C:\Users\billy\source\repos\TextService\TextService\obj\Debug\TextService.csproj.CoreCompileInputs.cache
+C:\Users\billy\source\repos\TextService\TextService\obj\Debug\TextService.dll
+C:\Users\billy\source\repos\TextService\TextService\obj\Debug\TextService.pdb
+F:\TextService\TextService\bin\TextService.dll.config
+F:\TextService\TextService\bin\TextService.dll
+F:\TextService\TextService\bin\TextService.pdb
+F:\TextService\TextService\obj\Debug\TextService.csprojAssemblyReference.cache
+F:\TextService\TextService\obj\Debug\TextService.csproj.CoreCompileInputs.cache
+F:\TextService\TextService\obj\Debug\TextService.dll
+F:\TextService\TextService\obj\Debug\TextService.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mike\source\repos\VinniesLoanService\VinniesLoanService\bin\VinniesLoanService.dll.config
+C:\Users\Mike\source\repos\VinniesLoanService\VinniesLoanService\bin\VinniesLoanService.dll
+C:\Users\Mike\source\repos\VinniesLoanService\VinniesLoanService\bin\VinniesLoanService.pdb
+C:\Users\Mike\source\repos\VinniesLoanService\VinniesLoanService\obj\Debug\VinniesLoanService.csprojAssemblyReference.cache
+C:\Users\Mike\source\repos\VinniesLoanService\VinniesLoanService\obj\Debug\VinniesLoanService.dll
+C:\Users\Mike\source\repos\VinniesLoanService\VinniesLoanService\obj\Debug\VinniesLoanService.pdb

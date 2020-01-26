@@ -1,0 +1,7 @@
+C:\Users\BillyDeskTop\source\repos\ResolveIP\ResolveIP\bin\ResolveIP.dll.config
+C:\Users\BillyDeskTop\source\repos\ResolveIP\ResolveIP\bin\ResolveIP.dll
+C:\Users\BillyDeskTop\source\repos\ResolveIP\ResolveIP\bin\ResolveIP.pdb
+C:\Users\BillyDeskTop\source\repos\ResolveIP\ResolveIP\obj\Debug\ResolveIP.csprojAssemblyReference.cache
+C:\Users\BillyDeskTop\source\repos\ResolveIP\ResolveIP\obj\Debug\ResolveIP.csproj.CoreCompileInputs.cache
+C:\Users\BillyDeskTop\source\repos\ResolveIP\ResolveIP\obj\Debug\ResolveIP.dll
+C:\Users\BillyDeskTop\source\repos\ResolveIP\ResolveIP\obj\Debug\ResolveIP.pdb
