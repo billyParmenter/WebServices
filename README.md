@@ -31,5 +31,5 @@ public struct IPInfo
 
 ## Authors
 
-* **Billy Parmenter** - *Services 1 & 2* - [billyParmenter](https://github.com/billyParmenter)
-* **Mike Ramoutsakis** - *Service 3* - [jrmoca](https://github.com/jrmoca)
+* **Billy Parmenter** - *Services 1 & 3* - [billyParmenter](https://github.com/billyParmenter)
+* **Mike Ramoutsakis** - *Service 2* - [jrmoca](https://github.com/jrmoca)
