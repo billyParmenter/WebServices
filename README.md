@@ -17,7 +17,15 @@ Looks up a given IP addresses and returns geographic information. This serves us
 Prototype for method: </br>
 ```IPInfo GetInfo(string ipAddress);```</br>
 Where ipAddress is the IP address of interest, and the return datatype is given as:</br>
-```public struct IPInfo{public string City;public string StateProvince;public string Country;public string Organization;public decimal Latitude;public decimal Longitude;}```</br></br>
+```public struct IPInfo
+{
+  public string City;
+  public string StateProvince;
+  public string Country;
+  public string Organization;
+  public decimal Latitude;
+  public decimal Longitude;
+}``` </br></br>
 
 ## Authors
 
